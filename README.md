@@ -8,3 +8,5 @@ guava
 	Splitter
 	Strings
 	Throwables
+	
+# Truth and roses have thorns about them.
